@@ -2,4 +2,5 @@ __01__ commit tracking text file added ==Mobin==
 __02__ this is test of github setup ==Ashraf==
 __03__ Repository initial setup  ==Lia==
 __04__ Good developer manifesto added ==Lia==
+__06__ python topics, framework, oops concepts, packages, ubuntu, vs-code, git & github, chrome, chatgpt topics added on good developer manifesto file ==Lia==
 
