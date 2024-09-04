@@ -5,4 +5,5 @@ __04__ Good developer manifesto added ==Lia==
 __06__ python topics, framework, oops concepts, packages, ubuntu, vs-code, git & github, chrome, chatgpt topics added on good developer manifesto file ==Lia==
 __07__ python cheat sheet update version 01 ==Ashraf==
 __08__ X-path cheat sheet update version 01 ==Mobin==
+__07__ real-estate business categories and hassel added v1 ==Lia==
 
