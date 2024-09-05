@@ -1,23 +1,22 @@
-# **x-path Cheat sheet**
-<bar>
+# **X-Path**
 
 
-## **X-Path Notebook Setup Guide**
-
-
+## **X-Path Notebook Setup**
 ```
-1. Project Directory Creat. 
-2. X-path Notebook Creat.
-3. h.html File creat.
-4. Copy Python x-path boiler code From Notebook.
-5. Copy HTML code from Chrome Browser
-6. run and check [response] 
+This is list of steps to follow setup Xpath notebook:
+1. Project directory create
+        $ mkdir project_name
+2. Xpath notebook create
+        $ touch project-name-xpath.ipynb
+3. h.html file create
+        $ touch h.html
+4. Copy Python xpath boiler code
+5. Copy html code from Chrome Browser
+6. Run and check [response] 
 ```
 
 
-
-## **X-Path python Boiler code**
-<bar>
+## **XPath Boiler Code**
 
 ```python
 from parsel import Selector
@@ -29,6 +28,7 @@ with open("h.html", "r") as f:
 
 response
 ```
+
 
 
 ## **X-Path Two parts**
