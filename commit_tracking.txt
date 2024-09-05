@@ -6,4 +6,5 @@ __06__ python topics, framework, oops concepts, packages, ubuntu, vs-code, git &
 __07__ python cheat sheet update version 01 ==Ashraf==
 __08__ X-path cheat sheet update version 01 ==Mobin==
 __07__ real-estate business categories and hassel added v1 ==Lia==
+__09__  kyeboard Shortcut cheat sheet update version 01 ==Mobin==
 
