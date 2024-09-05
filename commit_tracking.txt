@@ -8,3 +8,4 @@ __08__ X-path cheat sheet update version 01 ==Mobin==
 __09__ real-estate business categories and hassle added v1 ==Lia==
 __09__  keyboard Shortcut cheat sheet update version 01 ==Mobin==
 __10__ keyboard shortcut cheat sheet restructure and test 02 ==Lia==
+__11__ ecommerce business categories and hassle added v1 ==Lia==

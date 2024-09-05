@@ -37,7 +37,8 @@ Here is list of common applications:
 1. Ctrl + T                     # New Tab Open
 2. ctrl + W                     # Closed Tab
 3. Windows + H                  # Minimize 
-5. Ctrl + Page Up|Page Down     # Change Tab
+4. Ctrl + Page Up|Page Down     # Change Tab
+5. Ctrl+Shift+Q                 # Close Chrome browser
 ```
 
 
