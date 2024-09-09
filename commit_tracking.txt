@@ -9,3 +9,4 @@ __09__ real-estate business categories and hassle added v1 ==Lia==
 __09__  keyboard Shortcut cheat sheet update version 01 ==Mobin==
 __10__ keyboard shortcut cheat sheet restructure and test 02 ==Lia==
 __11__ ecommerce business categories and hassle added v1 ==Lia==
+__12__ Python error fix questions added v1 ==Lia==
