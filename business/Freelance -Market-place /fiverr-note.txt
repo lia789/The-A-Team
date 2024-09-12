@@ -1,0 +1,68 @@
+##### FIVERR #####
+
+Fiverr Part of content:
+1. Profile content
+2. Gigs content
+3. Portfolio content
+
+
+### Profile Content ###
+- Emails
+- Password
+- User Name
+- First Name
+- Last Name
+- Display Name
+- About short description
+- Language
+- Profile Image
+
+- Select Occupation
+- 15 Skills
+- Education
+    - County
+    - Collage|University Name
+    - Title
+    - Major
+    - Year
+- Certification
+    - Certification|Award Title
+    - Certified from
+    - Title
+- Personal Website
+- Linked Account
+    - Google
+    - Facebook
+    - Twitter
+- Verify Phone Number
+- Add security questions
+- Short profile title
+---------------------------------
+
+
+###fiverr gig create###
+
+
+- gig title
+- Search 5 tags 
+- Scope & pricing
+     -- packages
+    -- basic/standard/ premium
+-Deception
+- Frequently asked question 
+- create effective gig Image on fiverr.
+
+
+
+
+
+
+
+
+--------------------------- RAW
+
+
+1. Profile content
+2. Gigs content
+3. Portfolio content
+4. 

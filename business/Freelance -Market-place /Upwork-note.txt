@@ -1,0 +1,51 @@
+##### UPWORK #####
+
+UPWORK Part of content:
+1. Profile content
+2. Gigs content
+3. Portfolio content
+
+
+### Profile Content ###
+- create my account
+- Emails
+- Password
+- User Name
+- First Name
+- Last Name
+- Answer a few questions
+- import linkedin/ resume 
+-Title
+- if 
+   -- add experience
+-- Education
+    - County
+    - Collage|University Name
+    - Title
+    - Major
+    - Year
+- Language
+- 15 Skills
+- About short description
+- hourly rate 
+- Profile Image
+-profile detailers
+   ---city and zip code 
+-Portfolio content 
+
+
+ ###upwork gig create###
+
+ -profile pic
+ -skill 
+ -Title
+ -Overview
+ -work experience
+ -Portfolio
+ -Hourly Rate
+ -contact link
+ -
+
+
+
+

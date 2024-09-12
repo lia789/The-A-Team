@@ -1,0 +1,51 @@
+##### peopleperhour #####
+Peopleperhour Part of content:
+1. Profile content
+2. Gigs content
+3. Portfolio content
+
+### Profile Content ###
+
+-First name
+-Last name
+-Email/social media
+-password
+
+-country & phone number
+-profile picture & description
+-Job title
+-Skills
+-About
+-Language
+-Portfolio
+
+
+### peopleperhour gig/offer create###
+
+-Choose the Type of Account
+-Register with Email or Social Media
+-title
+- delivery time 
+-category
+-sub category
+-Add tags
+-make it fun:upload file and videos
+-about 
+-description
+-buyer sales time
+-Mark working country or all over the world
+-submitted
+-link
+
+
+
+
+
+
+
+
+
+
+
+
+
