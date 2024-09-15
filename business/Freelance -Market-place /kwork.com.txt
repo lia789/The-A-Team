@@ -1,0 +1,39 @@
+##### KWork.com #####
+
+KWork.com Part of content:
+1. Profile content
+2. Gigs content
+3. Portfolio content
+
+
+### Profile content ###
+- Emails
+- Password
+- User Name
+- First Name
+- Last Name
+- About short description
+- About short description
+-12 Skills
+-Business Hours
+-profile banner
+- Verify Phone Number
+
+
+
+
+2. Gigs content
+
+- gig title
+- category
+- Type of Services
+- Topic
+- KWork caver Image
+- Deception
+- Oder requirements
+- Create a package KWork with 3 price ranges 
+
+
+
+
+3. Portfolio content

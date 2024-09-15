@@ -1,0 +1,31 @@
+##### guru #####
+
+Guru Part of content:
+1. Profile content
+2. Gigs content
+3. Portfolio content
+
+
+1. Profile content
+- Emails
+- Password
+- User Name
+- First Name
+- Last Name
+- About short description
+- Select Occupation
+- 15 Skills
+- Education
+
+- Portfolio content
+
+
+### guru gig create###
+- gig title
+- Search 5 tags 
+- Scope & pricing
+     -- packages
+    -- basic/standard/ premium
+-Deception
+- Frequently asked question 
+- create effective gig Image on guru.

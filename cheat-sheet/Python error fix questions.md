@@ -43,7 +43,7 @@ def calculate_sum(numbers)
         total += num
     return total
 
-num_list = [10, 20, 30, 40]
+num_list = [10, 20, 30, 40, 50]
 result = calculate_sum(num_list)
 print(f"The sum is {result}")
 ```
