@@ -42,7 +42,7 @@ Single elements code:
 1. //tag                                                  -> Selecting with tag
 2. //tag [@attribute='value']                             -> Selecting attribute and value
 3. (//tag[@attribute='value'])[3]                         -> Selecting by index
-4. //tag[contains(text()),'contant']                      -> Partial content match
+4. //tag[contains(text(),'contant')]                      -> Partial content match
 5. //tag[contains(@attribute, 'value')]/text()            -> Partial value match
 ```
 
