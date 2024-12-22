@@ -95,6 +95,7 @@ response
 4. //tag[contains(text(),'content')]                    # Text contain
 5. //tag[contains(@attribute, 'value')]/text()          # Attribute
 6. normalize-space()
+7. /following-sibling::tag_name
 
 ```
 ```Python
@@ -385,6 +386,66 @@ with open(OUTPUT_CSV_FILE, 'a', newline='', encoding='utf-8') as file:
 
 print("\nProcessing completed.")
 ```
+## **Selenium**
+```
+$ pip install selenium
+$ pip install undetected-chromedriver
+```
+```Python
+# Selenium browser setup code
+import os
+import time
+from parsel import Selector
+import undetected_chromedriver as uc
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+
+# Initialize Chrome options
+chrome_options = uc.ChromeOptions()
+
+# Add persistent user profile directory
+user_data_dir = os.path.join(os.getcwd(), "chrome_user_data")
+chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
+
+# List of Chrome options to make the browser less detectable
+options = [
+    '--no-sandbox',
+    '--start-maximized',
+    '--headless',
+    '--disable-extensions',
+    '--ignore-certificate-errors',
+    '--disable-blink-features=AutomationControlled',
+    '--disable-infobars',
+    '--disable-dev-shm-usage',
+    '--disable-browser-side-navigation',
+    '--disable-gpu'
+]
+
+# Add each option to Chrome
+for option in options:
+    chrome_options.add_argument(option)
+
+# Initialize the undetected WebDriver with the configured Chrome options
+driver = uc.Chrome(options=chrome_options)
+driver_wait = WebDriverWait(driver, 30)
+
+print("Setting up Undetected Chrome Profile\nIt may take some time if it's the first time...")
+
+
+# Sending request code
+driver.get("https://www.aliexpress.com/")
+time.sleep(1)
+
+# Xpath code
+html = driver.page_source
+response = Selector(text=html)
+product_name = response.xpath("//*[@id='goods_price']//span/text()").getall()
+```
+
+
+
 
 
 ## **Keyboard Shortcut**
