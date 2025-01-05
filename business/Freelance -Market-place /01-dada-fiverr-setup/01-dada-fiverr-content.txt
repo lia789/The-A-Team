@@ -1,0 +1,61 @@
+========== Dada Fiverr Setup ==========
+
+===== Profile Content =====
+01. Emails: "lia.dev750@gmail.com"
+02. Phone: "01304246003"
+03. User ID: "lia750"
+04. Fiverr Password: "Password"
+05. First Name: ""
+06. Last Name: ""
+07. Display Name: "Lia"
+08. Profile Short Title: "Freelance data scraping developer"
+09. About Me: "description"
+10. 
+
+
+Task to follow creating Fiverr account:
+1. Create Gmail account
+2. Setup Gmail two factor authentication with phone number
+3. Setup Gmail recovery emails
+4. Create Fiverr social media Linked accounts and make them simple professional
+        1. Facebook
+        2. Dribble
+        3. Stack Overflow
+        4. GitHub
+        5. Vimeo
+        6. Twitter
+5. 
+
+
+Materials need to setup Fiverr account:
+1. New GP sim
+2. 
+
+
+-------------------- RAW
+5. Setup linkedin accounts
+
+
+
+
+
+
+
+
+
+Example Fiverr profile:
+https://www.fiverr.com/lia750?public_mode=true
+
+
+
+
+### Profile Content ###
+- Emails
+- Password
+- User Name
+- First Name
+- Last Name
+- Display Name
+- About short description
+- Language
+- Profile Image
