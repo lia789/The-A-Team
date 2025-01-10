@@ -1,0 +1,108 @@
+=== Account Setup ===
+01. gmail:
+02. phone_number:
+03. linked_account_urls:
+        1. Facebook
+        2. Dribble
+        3. Stack Overflow
+        4. GitHub
+        5. Vimeo
+        6. Twitter
+04. fiverr_urer_name
+05. fiverr_password
+06. fiverr_security_questions_aswer
+07. fist_name
+08. last_name
+09. display_name
+10. profile_picture
+11. profile_short_title
+12. language_section_content
+13. profile_description
+14. skills_list
+15. education_section_content
+16. certificate_section_content
+17. occupation_section_content
+
+
+Here is list of task todo before Fiverr profile setup:
+01. Create Gmail accounts and setup it best practice
+02. Setup linked accounts and make it profasional
+        1. Facebook
+        2. Dribble
+        3. Stack Overflow
+        4. GitHub
+        5. Vimeo
+        6. Twitter
+03. Write down Fiverr "user_name"
+04. Write down Fiverr "password" and "security_questions_answer"
+05. Write down "first_name", "last_name" and "display_name"
+06. Create SEO friendly best profile picture
+07. Write down "profile_short_title"
+08. Write down "language_section_content"
+09. Write down "profile_description"
+10. Write down "skills_list"
+11. Write down "education_section_content"
+12. Write down "certification_section_content"
+13. Write down "occupation_section_content"
+
+
+
+
+
+=== Gigs Setup ===
+01. gigs_title
+02. gigs_url
+03. categories
+04. sub_categories
+05. tags_list
+06. price_section_content
+07. gigs_descriptions
+08. faq_section_content
+09. project_requirements_questions
+10. image_1
+11. image_2
+12. image_3
+13. technology_list
+14. information_type
+
+
+Here is list of task todo before creating Fiverr gigs:
+01. Write down gigs title
+02. Write down "categories" and "sub_categories"
+03. Write down 5 "tags_list"
+04. Write down "gigs_price_section"
+05. Write down "gigs_descriptions"
+06. Write down "faq_section_content"
+07. Write down "project_requirements_questions"
+08. Create 3 gigs image with SEO
+09. Write down "technology_list"
+10. Write down "information_type"
+
+
+
+
+=== Portfolio Setup ===
+01. project_name
+02. industry
+03. project_duration
+04. project_cost
+05. description
+06. image_01
+07. image_02
+08. image_03
+
+
+Here is list of task todo before creating Fiverr portfolios:
+01. Write down portfolio meta content
+02. Write down project description
+03. Create 3 sample images with SEO
+
+
+Hardware setup task:
+1. Setup Ubuntu auto refrash script
+2. Setup Fiverr app and message alarm
+3. Setup computer for easy to build quick samples
+
+--------------- RAW
+
+
