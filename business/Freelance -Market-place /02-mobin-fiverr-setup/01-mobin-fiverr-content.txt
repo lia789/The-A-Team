@@ -1,41 +1,93 @@
-========== Mobin Fiverr Setup ==========
-
-===== Profile Content =====
-01. Emails: "lia.dev750@gmail.com"
-02. Phone: "01304246003"
-03. User ID: "lia750"
-04. Fiverr Password: "Password"
-05. First Name: ""
-06. Last Name: ""
-07. Display Name: "Lia"
-08. Profile Short Title: "Freelance data scraping developer"
-09. About Me: "description"
-10. 
-
-
-Task to follow creating Fiverr account:
-1. Create Gmail account
-2. Setup Gmail two factor authentication with phone number
-3. Setup Gmail recovery emails
-4. Create Fiverr social media Linked accounts and make them simple professional
+=== Account Setup ===
+01. gmail: "tm.software.365@gmail.com"
+02. phone_number:
+03. linked_account_urls:
+"""
         1. Facebook
         2. Dribble
         3. Stack Overflow
         4. GitHub
         5. Vimeo
         6. Twitter
-5. 
+"""
+04. fiverr_urer_name: "tm_365"
+05. fiverr_password: "TM@webscrapingdatascraping@365"
+06. fiverr_security_questions_aswer:
+07. fist_name: "T M Maruf Ibne"
+08. last_name: "Awal"
+09. display_name: "Maruf"
+10. profile_picture:
+11. profile_short_title: "365 data scraping, web scraping developer" | "Developer data scraping, web scraping"
+12. language_section_content:
+	1. English
+	2. German
+	3. Spanish
+13. profile_description
+"""
+Hi! I'm Maruf, a skilled hard code Python developer focusing on data scraping web scraping.
+My expertise includes building custom web scraper, desktop app, MS Excel plugins, dashboard, and data scraping tools.
+
+Python is my primary tools for work with web scraping data scraping project. I good at Selenium, Google Sheet, Airtable, SQL and AWS Cloud.
+
+I'm also experienced in B2B company data, C-level executives, and skip tracing for real estate.
+
+Formerly I was part of a shipping company, and now full time dedicated Python web scraping data scraping freelance developer.
+"""
+14. skills_list
+"""
+	1. Web scraping
+	2. Data scraping
+	3. Python
+	4. Web scraper
+	5. Data scraper
 
 
-Materials need to setup Fiverr account:
-1. New GP sim
-2. 
+	6. Skip tracer
+	7. Real estate leads generator
+	8. Real Estate
+	9. Real estate research
 
 
--------------------- RAW
-5. Setup linkedin accounts
+	10. Shopify expert
+	11. Shopify dropshipping expert
+	12. Product upload expert
+	13. Shopify product listing expert
+
+	14. Google Sheet
+	15. Email Scraper
+"""
+15. education_section_content
+"""
+College/university country:
+College/university name:
+Degree: Certificate - electrical engineering
+Graduation year: 
+"""
+16. certificate_section_content
+"""
+Award name: Mordern Python Bootcamp
+Awarded: Udemy
+Year: 2020
+
+Award name: Advanced Web Scraping with Python using Scrapy & Splash
+Awarded: Udemy
+Year: 2020
+"""
+17. occupation_section_content
+
+18. tags:
+	- data scraping  # Most important
+	- web scraping   # Most important
+	- web scraper
+	- real estate
+	- python
 
 
 
+
+
+
+
+---------------- RAW
 
 
