@@ -8,9 +8,9 @@
         4. GitHub
         5. Vimeo
         6. Twitter
-04. fiverr_urer_name
+04. fiverr_user_name
 05. fiverr_password
-06. fiverr_security_questions_aswer
+06. fiverr_security_questions_answer
 07. fist_name
 08. last_name
 09. display_name
@@ -26,7 +26,7 @@
 
 Here is list of task todo before Fiverr profile setup:
 01. Create Gmail accounts and setup it best practice
-02. Setup linked accounts and make it profasional
+02. Setup linked accounts and make it probational
         1. Facebook
         2. Dribble
         3. Stack Overflow

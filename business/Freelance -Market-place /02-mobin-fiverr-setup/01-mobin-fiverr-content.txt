@@ -65,7 +65,7 @@ Graduation year:
 """
 16. certificate_section_content
 """
-Award name: Mordern Python Bootcamp
+Award name: Modern Python Bootcamp
 Awarded: Udemy
 Year: 2020
 
@@ -83,11 +83,125 @@ Year: 2020
 	- python
 
 
+=== Gigs Setup ===
+01. gigs_title: "I will be web scraping data scraping web scraper python developer"
+02. gigs_url: "https://www.fiverr.com/tm_365/be-web-scraping-data-scraping-web-scraper-python-developer"
+03. categories: "Data"->"Data Collection"->"Data Scraping"|"Web Scraping"
+04. sub_categories: "Data"->"Data Collection"->"Data Scraping"|"Web Scraping"
+05. tags_list:
+"""
+- data scraping  # Most important
+- web scraping   # Most important
+- web scraper
+- real estate
+- python
+"""
+06. price_section_content
+"""
+=== Basic ===
+Price Section:
+01. Short Title: "Quick Data Scraping" | "Fast Data Scraping"  
+02. Short description
+03. Price: 30$
 
+=== Standard ===
+01. Short Title: "Huge Data Scraping" | "Large Data Scraping"
+02. Short description
+03. Price: 75$
+
+=== Premium ===
+01. Short Title: "Web Scraping Tools"
+02. Short description
+03. Price: 125$
+"""
+07. gigs_descriptions
+08. faq_section_content
+09. project_requirements_questions
+10. image_1
+11. image_2
+12. image_3
+13. technology_list
+14. information_type
 
 
 
 
 ---------------- RAW
+=== Basic ===
+Price Section:
+01. Short Title: "Quick Data Scraping" | "Fast Data Scraping"  
+02. Short description
+03. Price: 30$
+
+=== Standard ===
+01. Short Title: "Huge Data Scraping" | "Large Data Scraping"
+02. Short description
+03. Price: 75$
+
+=== Premium ===
+01. Short Title: "Web Scraping Tools"
+02. Short description
+03. Price: 125$
 
 
+
+
+
+
+
+
+
+I will do python web scraping data scraping website scraping data mining
+I will do web scraper data scraper data collection data extraction
+
+
+I will be web scraping data scraping web scraper python developer
+
+I will do web scraping, web scraper, data entry, and data mining in 12 hours
+
+
+
+	- data scraping  # Most important
+	- web scraping   # Most important
+	- web scraper
+	- real estate
+	- python
+	
+	
+	
+
+https://www.fiverr.com/lia750/do-python-web-scraping-data-scraping-website-scraping-data-mining
+
+
+https://www.fiverr.com/tm_365/be-web-scraping-data-scraping-web-scraper-python-developer
+
+
+
+I will be web scraping data scraping web scraper python developer
+
+
+
+
+
+
+
+
+
+
+
+
+=== Gigs Setup ===
+01. gigs_title
+02. gigs_url
+03. categories
+04. sub_categories
+05. tags_list
+06. price_section_content
+07. gigs_descriptions
+08. faq_section_content
+09. project_requirements_questions
+10. image_1
+11. image_2
+12. image_3
+13. technology_list
+14. information_type
