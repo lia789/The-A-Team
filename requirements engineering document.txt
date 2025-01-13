@@ -1,0 +1,191 @@
+*** Requirements Engineering ***
+
+
+** Who you Are | Who we are?
+	- We are contractor.
+	- We paid for doing task not for time.
+	- We continuse hunt next projects.
+	- We can handle multiple projects at a single time.
+	- Our work time is limited.
+	- Our work energy is limited.
+
+
+
+** How our customers looks like?
+	- Small business owner (less than 500 workers).
+	- Deliver products or servicess a specific community.
+	- They come here either fixing production or finding new sales.
+	- They have money.
+	- They are producer not consumers.
+	- They are very moraly inteligent.
+	- They have options.
+	- They are profasionals communicator.
+	- They just except business as a gift.
+
+
+** Why we reading "Requirements Engineering"?
+   - The single goal reading this document is "Avoid Poor Managment" in our work life.
+   
+  
+  
+** Why you need requirements engineering?
+   - The job of doing requirements engineering is come close this information and negotiation with stack holder:
+   		1. Deliver Time
+   		2. Budgets
+   		3. Features
+   		4. Development
+   		5. Deployment
+
+
+
+** What is requirements engineering?
+  - Requirements engineering is the filed of software engineering that convert "Stackholder Real World Goals" into complete solutions.
+  
+   
+   
+** What is requirements?
+   - The fundamental challange of working with stackholder is they always come to you business goals. Proving business goals is often challanging or simply not possibles. Your job is converting the business goals into doable feature. This featers are the requirements. Always communicate with stackholder with features.
+
+
+
+** Type of software projects based on milestone?
+	1. Single milestone project
+	2. Ettarative milestone project
+	3. Subcription based project
+
+
+** Type of format requirements come from?
+	1. Message text
+	2. Docs file
+	3. Videos
+	4. Similar solutions referance
+
+
+** Type of problems with raw project requirements?
+	- Every requirements new
+	- Unknow domain vocubulary
+	- Very short|very long document
+	- Irrelavent information
+	- Vague|unclear
+	- Don't make sence
+	- Inconsistent
+	- Incomplete
+	- Conflick each other
+	- Not Doable
+	- Gold planting features with law budgets
+	- Complex to understand
+	- Limited access
+
+
+** Type of questions initial stackholder have after sending requirements?
+	1. Does the system doable?
+	2. How much it will take?
+	3. What is the prcess|plan to do it?
+	4. How I use the system?
+
+
+** How to encounter with frellance client?
+	- Remmber the story of Husband and Wife about Cake building
+	- Treat Stackholder always as confusied loving wife
+	- To deal with Stackholder you must have knowldge about their business
+	- Asking questions and Habily involve in the process is key to manage Stackholders
+
+
+** Why stackholder|client change their minds?
+	- Initial don't know what they want
+	- Can't imagine every features
+	- Business rules change
+	- Feature change
+	- Quality attributes comes
+	- Constrain comems
+	- Discover the return of investment
+	- Stackholder|Client it self inconsistnt
+	- Simply well stupid
+	
+	Your job as requirements engineer helping stackholder find new featurs as early as possible to avoid poor communications.
+	
+
+** What is the key of communications?
+   - The key to successful communications is is managing expectations.
+
+
+** What common things client want or need?
+   - Initialy people wants everything, after old they undertand what they realy want. Here is list of feature want:
+	   	1. Speed
+		2. Relibility
+		3. Error Free
+		4. Easy to use
+		5. Cliarity
+		6. Efficiency
+
+
+** What common things customer don't want?
+	1. Undesirable performance characteristics
+	2. Esthetic features
+	3. Safety concerns (hazards)
+	4. Gold-plating (excessive and unnecessary features)
+	
+	
+** How to berak client requirements?
+	- Brain strome existing document
+	- Inspire existing or similar solutions
+	- Asking good questions
+	- Prototyping	
+	- Domain or business analyze
+	- Senerio Analyze
+	- Task or Use case analyze
+	- User stories brain strome
+	- Reverse Engineering
+
+
+
+** What is functional requirements?
+   - Functional requirements descrive how the system will react on user input and what list of servecise the system will provide.
+
+
+** What about non functional requirements?
+   - The non-functional requirements is about how much good the system work and feel. Non-functional requirements can't see but it can feel.
+
+
+
+
+
+### Part 2: How to Anazlize freelance buyer and project ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
