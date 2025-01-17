@@ -1,6 +1,6 @@
 === Account Setup ===
-01. gmail: "tm.software.365@gmail.com"
-02. phone_number:
+01. gmail: "tm.software.365@gmail.com" | "tm@PythonDeveloper@365"
+02. phone_number: "+8801790409751"
 03. linked_account_urls:
 """
         1. Facebook
@@ -83,6 +83,7 @@ Year: 2020
 	- python
 
 
+
 === Gigs Setup ===
 01. gigs_title: "I will be web scraping data scraping web scraper python developer"
 02. gigs_url: "https://www.fiverr.com/tm_365/be-web-scraping-data-scraping-web-scraper-python-developer"
@@ -114,10 +115,34 @@ Price Section:
 02. Short description
 03. Price: 125$
 """
+
+
 07. gigs_descriptions
 08. faq_section_content
 09. project_requirements_questions
-10. image_1
+
+
+10. image_1:
+"""
+top row: 
+Zillow, Redfin, Assessor, Gov, HOA 
+AliExpress, Amazon, Etsy, eBay, Shopify, ASOS
+
+title:
+Python Developer
+Web Scraping, Data Mining
+
+middle content:
+linkedIn leads, directory, company info
+product listing, download images, custom tools
+property data, skip tracking, pdf scraping
+
+botom title:
+SQL, Xlsx, Airtable
+Behing Login, CAPTCHA, APIs
+"""
+
+
 11. image_2
 12. image_3
 13. technology_list
@@ -127,23 +152,50 @@ Price Section:
 
 
 ---------------- RAW
-=== Basic ===
-Price Section:
-01. Short Title: "Quick Data Scraping" | "Fast Data Scraping"  
-02. Short description
-03. Price: 30$
-
-=== Standard ===
-01. Short Title: "Huge Data Scraping" | "Large Data Scraping"
-02. Short description
-03. Price: 75$
-
-=== Premium ===
-01. Short Title: "Web Scraping Tools"
-02. Short description
-03. Price: 125$
 
 
+what are raw services?
+1. Automate Aliexpress, Amazon product data scraping, upload imagess on shopify   # Ecommerce
+2. Real estate property data scraping, skip tracing # Real estate
+3. Web scraping behind login, CAPTCHA, and APIs # Captcha
+4. Integrate website scraping data mining script with Google Sheets, Airtable # Google Sheet 
+5. # Lead Generation
+6. # Bot development
+7. # Data vizulization
+8. Scraping data from pdfs, download high quality images, video scraping
+
+"""
+** Gigs Description **
+Hello and Welcome!
+
+Does you need help about website data, web scraping, data scraping, web scraper or Python?
+
+
+Here is list of servicess I have to offer:
+	1. 
+	2. 
+	3.
+	4.
+	5.
+	6.
+	7.
+
+"""
+1. # Leads
+2. # Ecommerce
+3. # Real Estate
+4. # Captcha and Other complex task
+5. # PDFs, Videos scraping, mobile app
+6. # Visuliztion
+7. # Bot development
+
+
+
+FAQ topics:
+# Integrate google sheets, airtable
+# Building web app and desktop app
+# Captcha
+# Service not good
 
 
 
@@ -151,33 +203,79 @@ Price Section:
 
 
 
-I will do python web scraping data scraping website scraping data mining
-I will do web scraper data scraper data collection data extraction
-
-
-I will be web scraping data scraping web scraper python developer
-
-I will do web scraping, web scraper, data entry, and data mining in 12 hours
 
 
 
-	- data scraping  # Most important
-	- web scraping   # Most important
-	- web scraper
-	- real estate
-	- python
+
+
+Here're the services and skills I have to offer:
+
+Web scraping behind login, CAPTCHA, and APIs
+Data scraping from directory, business leads, yellow page website scraping, LinkedIn data mining
+Python workflow automation, task schedule, sheet update
+User input-based website scraping tool (MS Excel & Google sheet plugin, Chrome extension)
+Python bulk image download & PDF data mining
+Real estate property data scraping
+Deploy Python web scraping script with AWS, Zyte, Scrapyd-web
+Integrate website scraping data mining script with Google Sheets, Airtable
+
+
+
+
+
+
+- data scraping  # Most important
+- web scraping   # Most important
+- web scraper
+- real estate
+- python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
-	
-
-https://www.fiverr.com/lia750/do-python-web-scraping-data-scraping-website-scraping-data-mining
-
-
-https://www.fiverr.com/tm_365/be-web-scraping-data-scraping-web-scraper-python-developer
-
-
-
-I will be web scraping data scraping web scraper python developer
 
 
 
@@ -190,18 +288,5 @@ I will be web scraping data scraping web scraper python developer
 
 
 
-=== Gigs Setup ===
-01. gigs_title
-02. gigs_url
-03. categories
-04. sub_categories
-05. tags_list
-06. price_section_content
-07. gigs_descriptions
-08. faq_section_content
-09. project_requirements_questions
-10. image_1
-11. image_2
-12. image_3
-13. technology_list
-14. information_type
+
+
