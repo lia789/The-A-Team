@@ -101,25 +101,76 @@ Year: 2020
 """
 === Basic ===
 Price Section:
-01. Short Title: "Quick Data Scraping" | "Fast Data Scraping"  
-02. Short description
+01. Short Title: "Quick Data Scraping" 
+02. Short description: "1k ROW; product data, real estate, leads, LinkedIn, image download, CAPTCHA, data scraping"
 03. Price: 30$
 
 === Standard ===
-01. Short Title: "Huge Data Scraping" | "Large Data Scraping"
-02. Short description
+01. Short Title: "Large Data Scraping"
+02. Short description: "10k ROW; PDF, skip tracing, CAPTCHA, browswer automation, product upload, web scraping"
 03. Price: 75$
 
 === Premium ===
-01. Short Title: "Web Scraping Tools"
-02. Short description
+01. Short Title: "Web Scraper Tools"
+02. Short description: "50k ROW; Excel Dashboard, Visulization, web scraper tool, notification, data scraping"
 03. Price: 125$
 """
 
 
 07. gigs_descriptions
+"""
+** Gigs Description **
+
+Hello and Welcome!
+
+Does you need help about website data, web scraping, data scraping, web scraper, or Python data mining?
+
+Here is list of services I have:
+	1. LinkedIn leads, Google Maps scraper, company info, website data scraping 
+	2. Automate Aliexpress Amazon, product data scraping, image download, product upload
+	3. Real Estate property web scraping, skip tracing, real estate leads
+	4. CAPTCHA, behind login, APIs, complex & hard website data scraping
+	5. PDF, Video, and Mobile app web scraper
+	6. Power BI, Excel Dashboard, data visualization with web scraping and real-time data
+	7. Browser automation, custom web scraper tools, notification or bot development
+
+To start project, I'll need the following information:
+1. What information do you want?
+2. Any recommend website or source?
+3. What feature does you want about custom web scraper tools?
+4. How much time does you have?
+
+Me as a hard code web scraping data scraping Python developer, also build custom Desktop and Web applications as requirements based on data.
+
+Feel free to share project details or ideas. Let me break down requirements and back to you. Also appreciated asking for samples before placing an order about web scraping project.
+
+"""
 08. faq_section_content
+"""
+Are you provide data samples?
+Yes, samples help avoid confusion. It also helps understand project scope and deadline. I try best give you as quick samples as possible based on data scraping requirements.
+
+
+What are skills do you have?
+Python is my primary programming language for web scraping. I am also familiar with Goole Sheet, Airtable, SQL, Power BI Django framework, and JavaScript.
+
+
+Can you bypass CAPTCHA or complex website?
+Yes, of course! I have set up  about web scraping that can bypass most websites. If still find websites blocking us, we have 3rd party proxy IP and Captcha solver.
+
+
+What about custom web scraping tools?
+Have to know the features of the data scraping tools first. Then I will design best possible setup to use custom tools like Desktop Apps, Web Apps, or Cloud-based web scraper solutions.
+
+
+What if I am not satisfied?
+I do my best to deliver high-quality software products. However, still, some aspects I do not handle or meet expectations, there is simple straightforward refund policy on Fiverr.
+"""
 09. project_requirements_questions
+"""
+What information do you want?
+Doest you have any recommend websites or source?
+"""
 
 
 10. image_1:
@@ -141,152 +192,29 @@ botom title:
 SQL, Xlsx, Airtable
 Behing Login, CAPTCHA, APIs
 """
-
-
 11. image_2
 12. image_3
-13. technology_list
-14. information_type
+13. technology_list:
+"""
+JavaScript
+Python
+Google Sheets
+Excel
+Scrapy
 
+Note: Have to select it real time
+"""
+14. information_type
+"""
+Contact information
+Listings
+Products & reviews
+Real estate
+Social media
+
+Note: Have to select it real time
+"""
 
 
 
 ---------------- RAW
-
-
-what are raw services?
-1. Automate Aliexpress, Amazon product data scraping, upload imagess on shopify   # Ecommerce
-2. Real estate property data scraping, skip tracing # Real estate
-3. Web scraping behind login, CAPTCHA, and APIs # Captcha
-4. Integrate website scraping data mining script with Google Sheets, Airtable # Google Sheet 
-5. # Lead Generation
-6. # Bot development
-7. # Data vizulization
-8. Scraping data from pdfs, download high quality images, video scraping
-
-"""
-** Gigs Description **
-Hello and Welcome!
-
-Does you need help about website data, web scraping, data scraping, web scraper or Python?
-
-
-Here is list of servicess I have to offer:
-	1. 
-	2. 
-	3.
-	4.
-	5.
-	6.
-	7.
-
-"""
-1. # Leads
-2. # Ecommerce
-3. # Real Estate
-4. # Captcha and Other complex task
-5. # PDFs, Videos scraping, mobile app
-6. # Visuliztion
-7. # Bot development
-
-
-
-FAQ topics:
-# Integrate google sheets, airtable
-# Building web app and desktop app
-# Captcha
-# Service not good
-
-
-
-
-
-
-
-
-
-
-
-
-Here're the services and skills I have to offer:
-
-Web scraping behind login, CAPTCHA, and APIs
-Data scraping from directory, business leads, yellow page website scraping, LinkedIn data mining
-Python workflow automation, task schedule, sheet update
-User input-based website scraping tool (MS Excel & Google sheet plugin, Chrome extension)
-Python bulk image download & PDF data mining
-Real estate property data scraping
-Deploy Python web scraping script with AWS, Zyte, Scrapyd-web
-Integrate website scraping data mining script with Google Sheets, Airtable
-
-
-
-
-
-
-- data scraping  # Most important
-- web scraping   # Most important
-- web scraper
-- real estate
-- python
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
