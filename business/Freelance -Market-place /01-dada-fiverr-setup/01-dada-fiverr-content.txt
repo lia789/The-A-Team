@@ -1,39 +1,22 @@
-========== Dada Fiverr Setup ==========
-
-===== Profile Content =====
-01. Emails: "lia.dev750@gmail.com"
-02. Phone: "01304246003"
-03. User ID: "lia750"
-04. Fiverr Password: "Password"
-05. First Name: ""
-06. Last Name: ""
-07. Display Name: "Lia"
-08. Profile Short Title: "Freelance data scraping developer"
-09. About Me: "description"
-10. 
+=== Account Setup ===
+01. gmail: "diproy.developer.247@gmail.com"
+02. phone_number: "+8801300000000"
+03. fiverr_urer_name: "roy_247"
+04. fiverr_password: "MUST BE HARD"
+05. fiverr_security_questions_aswer: "FRIEND|PET"
+06. fist_name: "Dipayon Chandro"
+07. last_name: "Roy"
+08. display_name: "Roy"
+09. fiverr_profile_url: "https://www.fiverr.com/roy_247"
+10. profile_picture:
 
 
-Task to follow creating Fiverr account:
-1. Create Gmail account
-2. Setup Gmail two factor authentication with phone number
-3. Setup Gmail recovery emails
-4. Create Fiverr social media Linked accounts and make them simple professional
-        1. Facebook
-        2. Dribble
-        3. Stack Overflow
-        4. GitHub
-        5. Vimeo
-        6. Twitter
-5. 
-
-
-Materials need to setup Fiverr account:
-1. New GP sim
+Task to do:
+1. Profile Picture must be try with SEO, collect two photos. One is without SEO, one is with SEO
 2. 
 
 
--------------------- RAW
-5. Setup linkedin accounts
+--------------------------- RAW
 
 
 
@@ -43,19 +26,205 @@ Materials need to setup Fiverr account:
 
 
 
-Example Fiverr profile:
-https://www.fiverr.com/lia750?public_mode=true
+10. profile_picture:
+11. profile_short_title: "365 data scraping, web scraping developer" | "Developer data scraping, web scraping"
+12. language_section_content:
+	1. English
+	2. German
+	3. Spanish
+13. profile_description
+"""
+Hi! I'm Maruf, a skilled hard code Python developer focusing on data scraping web scraping.
+My expertise includes building custom web scraper, desktop app, MS Excel plugins, dashboard, and data scraping tools.
+
+Python is my primary tools for work with web scraping data scraping project. I good at Selenium, Google Sheet, Airtable, SQL and AWS Cloud.
+
+I'm also experienced in B2B company data, C-level executives, and skip tracing for real estate.
+
+Formerly I was part of a shipping company, and now full time dedicated Python web scraping data scraping freelance developer.
+"""
+14. skills_list
+"""
+	1. Web scraping
+	2. Data scraping
+	3. Python
+	4. Web scraper
+	5. Data scraper
+
+
+	6. Skip tracer
+	7. Real estate leads generator
+	8. Real Estate
+	9. Real estate research
+
+
+	10. Shopify expert
+	11. Shopify dropshipping expert
+	12. Product upload expert
+	13. Shopify product listing expert
+
+	14. Google Sheet
+	15. Email Scraper
+"""
+15. education_section_content
+"""
+College/university country:
+College/university name:
+Degree: Certificate - electrical engineering
+Graduation year: 
+"""
+16. certificate_section_content
+"""
+Award name: Modern Python Bootcamp
+Awarded: Udemy
+Year: 2020
+
+Award name: Advanced Web Scraping with Python using Scrapy & Splash
+Awarded: Udemy
+Year: 2020
+"""
+17. occupation_section_content
+
+18. tags:
+	- data scraping  # Most important
+	- web scraping   # Most important
+	- web scraper
+	- real estate
+	- python
 
 
 
+=== Gigs Setup ===
+01. gigs_title: "I will be web scraping data scraping web scraper python developer"
+02. gigs_url: "https://www.fiverr.com/tm_365/be-web-scraping-data-scraping-web-scraper-python-developer"
+03. categories: "Data"->"Data Collection"->"Data Scraping"|"Web Scraping"
+04. sub_categories: "Data"->"Data Collection"->"Data Scraping"|"Web Scraping"
+05. tags_list:
+"""
+- data scraping  # Most important
+- web scraping   # Most important
+- web scraper
+- real estate
+- python
+"""
+06. price_section_content
+"""
+=== Basic ===
+Price Section:
+01. Short Title: "Quick Data Scraping" 
+02. Short description: "1k ROW; product data, real estate, leads, LinkedIn, image download, CAPTCHA, data scraping"
+03. Price: 30$
 
-### Profile Content ###
-- Emails
-- Password
-- User Name
-- First Name
-- Last Name
-- Display Name
-- About short description
-- Language
-- Profile Image
+=== Standard ===
+01. Short Title: "Large Data Scraping"
+02. Short description: "10k ROW; PDF, skip tracing, CAPTCHA, browswer automation, product upload, web scraping"
+03. Price: 75$
+
+=== Premium ===
+01. Short Title: "Web Scraper Tools"
+02. Short description: "50k ROW; Excel Dashboard, Visulization, web scraper tool, notification, data scraping"
+03. Price: 125$
+"""
+
+
+07. gigs_descriptions
+"""
+** Gigs Description **
+
+Hello and Welcome!
+
+Does you need help about website data, web scraping, data scraping, web scraper, or Python data mining?
+
+Here is list of services I have:
+	1. LinkedIn leads, Google Maps scraper, company info, website data scraping 
+	2. Automate Aliexpress Amazon, product data scraping, image download, product upload
+	3. Real Estate property web scraping, skip tracing, real estate leads
+	4. CAPTCHA, behind login, APIs, complex & hard website data scraping
+	5. PDF, Video, and Mobile app web scraper
+	6. Power BI, Excel Dashboard, data visualization with web scraping and real-time data
+	7. Browser automation, custom web scraper tools, notification or bot development
+
+To start project, I'll need the following information:
+1. What information do you want?
+2. Any recommend website or source?
+3. What feature does you want about custom web scraper tools?
+4. How much time does you have?
+
+Me as a hard code web scraping data scraping Python developer, also build custom Desktop and Web applications as requirements based on data.
+
+Feel free to share project details or ideas. Let me break down requirements and back to you. Also appreciated asking for samples before placing an order about web scraping project.
+
+"""
+08. faq_section_content
+"""
+Are you provide data samples?
+Yes, samples help avoid confusion. It also helps understand project scope and deadline. I try best give you as quick samples as possible based on data scraping requirements.
+
+
+What are skills do you have?
+Python is my primary programming language for web scraping. I am also familiar with Goole Sheet, Airtable, SQL, Power BI Django framework, and JavaScript.
+
+
+Can you bypass CAPTCHA or complex website?
+Yes, of course! I have set up  about web scraping that can bypass most websites. If still find websites blocking us, we have 3rd party proxy IP and Captcha solver.
+
+
+What about custom web scraping tools?
+Have to know the features of the data scraping tools first. Then I will design best possible setup to use custom tools like Desktop Apps, Web Apps, or Cloud-based web scraper solutions.
+
+
+What if I am not satisfied?
+I do my best to deliver high-quality software products. However, still, some aspects I do not handle or meet expectations, there is simple straightforward refund policy on Fiverr.
+"""
+09. project_requirements_questions
+"""
+What information do you want?
+Doest you have any recommend websites or source?
+"""
+
+
+10. image_1:
+"""
+top row: 
+Zillow, Redfin, Assessor, Gov, HOA 
+AliExpress, Amazon, Etsy, eBay, Shopify, ASOS
+
+title:
+Python Developer
+Web Scraping, Data Mining
+
+middle content:
+linkedIn leads, directory, company info
+product listing, download images, custom tools
+property data, skip tracking, pdf scraping
+
+botom title:
+SQL, Xlsx, Airtable
+Behing Login, CAPTCHA, APIs
+"""
+11. image_2
+12. image_3
+13. technology_list:
+"""
+JavaScript
+Python
+Google Sheets
+Excel
+Scrapy
+
+Note: Have to select it real time
+"""
+14. information_type
+"""
+Contact information
+Listings
+Products & reviews
+Real estate
+Social media
+
+Note: Have to select it real time
+"""
+
+
+
+---------------- RAW
