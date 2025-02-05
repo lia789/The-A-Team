@@ -8,7 +8,76 @@
 07. last_name: "Roy"
 08. display_name: "Roy"
 09. fiverr_profile_url: "https://www.fiverr.com/roy_247"
-10. profile_picture:
+10. profile_picture: TODO
+11. profile_short_title: "Python web scraping data scraping developer"
+12. language_section_content:
+	1. English
+	2. German
+	3. Spanish
+13. profile description:
+"""
+Welcome! I'm Roy, a hard-code Python developer with strong focus on web scraping, data scraping, and automation.
+
+My expertise includes building custom web scraper, desktop applications, MS Excel plugins, dashboards, and data automation tools. I have strong web scraping background in real estate, eCommerce, B2B data scraping, C-level executive leads, and skip tracing.
+
+Python is my primary programming language, and I excel working with Selenium, Google Sheets, Airtable, SQL, and AWS Cloud for developing scalable, efficient data solutions.
+
+
+Formerly part of UK based logistics company, now full-time dedicated freelance Python data scraping developer.
+"""
+14. skills_list:
+"""
+1. Web scraping
+2. Data scraping
+3. Python
+4. Web scraper
+5. Data scraper
+6. Skip tracer
+7. Real estate leads generator
+8. Real Estate
+9. Real estate research
+10. Shopify expert
+11. Shopify dropshipping expert
+12. Product upload expert
+13. Shopify product listing expert
+
+14. Google Sheet
+15. Email Scraper
+
+Note: Will select manualy. There is 20 skills can select.
+"""
+
+16. education_section_content
+"""
+College/university country:
+College/university name:
+Degree: Certificate - electrical engineering
+Graduation year:
+
+Note Dada will filup
+"""
+
+17. certificate_section_content
+"""
+Award name: Modern Python Bootcamp
+Awarded: Udemy
+Year: 2020
+
+Award name: Advanced Web Scraping with Python using Scrapy & Splash
+Awarded: Udemy
+Year: 2020
+
+Note: Year will be change
+"""
+
+18. tags:
+"""
+- data scraping  # Most important
+- web scraping   # Most important
+- web scraper
+- real estate
+- python
+"""
 
 
 Task to do:
@@ -26,71 +95,7 @@ Task to do:
 
 
 
-10. profile_picture:
-11. profile_short_title: "365 data scraping, web scraping developer" | "Developer data scraping, web scraping"
-12. language_section_content:
-	1. English
-	2. German
-	3. Spanish
-13. profile_description
-"""
-Hi! I'm Maruf, a skilled hard code Python developer focusing on data scraping web scraping.
-My expertise includes building custom web scraper, desktop app, MS Excel plugins, dashboard, and data scraping tools.
 
-Python is my primary tools for work with web scraping data scraping project. I good at Selenium, Google Sheet, Airtable, SQL and AWS Cloud.
-
-I'm also experienced in B2B company data, C-level executives, and skip tracing for real estate.
-
-Formerly I was part of a shipping company, and now full time dedicated Python web scraping data scraping freelance developer.
-"""
-14. skills_list
-"""
-	1. Web scraping
-	2. Data scraping
-	3. Python
-	4. Web scraper
-	5. Data scraper
-
-
-	6. Skip tracer
-	7. Real estate leads generator
-	8. Real Estate
-	9. Real estate research
-
-
-	10. Shopify expert
-	11. Shopify dropshipping expert
-	12. Product upload expert
-	13. Shopify product listing expert
-
-	14. Google Sheet
-	15. Email Scraper
-"""
-15. education_section_content
-"""
-College/university country:
-College/university name:
-Degree: Certificate - electrical engineering
-Graduation year: 
-"""
-16. certificate_section_content
-"""
-Award name: Modern Python Bootcamp
-Awarded: Udemy
-Year: 2020
-
-Award name: Advanced Web Scraping with Python using Scrapy & Splash
-Awarded: Udemy
-Year: 2020
-"""
-17. occupation_section_content
-
-18. tags:
-	- data scraping  # Most important
-	- web scraping   # Most important
-	- web scraper
-	- real estate
-	- python
 
 
 
